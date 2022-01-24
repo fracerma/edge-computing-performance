@@ -13,14 +13,16 @@ Our team was composed by 8 members between Italy and Croatia with two rotating S
 
 
 ## High level architecture and technologies
-<center>
-	<figure>
+
+<figure>
+	<center>
 		<img
 		src="https://kubeedge.io/img/kubeedge_arch.png"
 		alt="kubeedge">
 		<figcaption>Architecture overview</figcaption>
-	</figure>
-</center>
+	</center>
+</figure>
+
 
 [Follow this link](https://drive.google.com/drive/folders/1KaGCQgi5YzHulSMd1tcRK_pQs4Diwxm_?usp=sharing) to read the documentation of this project
 
