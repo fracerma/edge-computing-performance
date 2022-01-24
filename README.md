@@ -18,7 +18,8 @@ Our team was composed by 8 members between Italy and Croatia with two rotating S
 	<center>
 		<img
 		src="https://kubeedge.io/img/kubeedge_arch.png"
-		alt="kubeedge">
+		alt="kubeedge"
+		width="50%">
 		<figcaption>Architecture overview</figcaption>
 	</center>
 </figure>
