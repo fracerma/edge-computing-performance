@@ -16,8 +16,8 @@ Our team was composed by 8 members between Italy and Croatia with two rotating S
 <center>
 	<figure>
 		<img
-		src="https://developer.mozilla.org/static/img/favicon144.png"
-		alt="The beautiful MDN logo.">
+		src="https://kubeedge.io/img/kubeedge_arch.png"
+		alt="kubeedge">
 		<figcaption>Architecture overview</figcaption>
 	</figure>
 </center>
